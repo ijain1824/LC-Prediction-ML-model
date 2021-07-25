@@ -1,4 +1,0 @@
-streamlit
-tensorflow>2.2
-numpy>=1.9.2
-
