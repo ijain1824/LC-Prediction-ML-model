@@ -1,0 +1,4 @@
+streamlit
+keras
+numpy>=1.9.2
+
